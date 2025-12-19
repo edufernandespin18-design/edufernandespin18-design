@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo Fernandes! 👋
 
-<!--
-**edufernandespin18-design/edufernandespin18-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um desenvolvedor em formação. Meu foco é evoluir todos os dias construindo projetos práticos.
 
-Here are some ideas to get you started:
+- 🎓 **Foco atual:** JavaScript, Front-end, Lógica e Banco de Dados.
+- 🔭 **Projetos recentes:** - [My Energy Dashboard](https://github.com/edufernandespin18-design/my-energy-dashboard) (Sistema de gestão SPA com JS puro)
+    - [Meu Portfólio](https://github.com/edufernandespin18-design/Meu-Portfolio) (HTML5, CSS3, Dark Mode)
+- 💬 **Frase:** "Construindo projetos e evoluindo todos os dias 🚀"
+- 📫 **Contato:** [edufernandespin18@gmail.com](mailto:edufernandespin18@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+As tecnologias que utilizo nos meus projetos (Front-end, Back-end e Dados):
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufernandespin18-design&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufernandespin18-design&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## 🔗 Vamos nos conectar?
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/eduardo-fernandes-pinheiro-41650a2b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:edufernandespin18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
