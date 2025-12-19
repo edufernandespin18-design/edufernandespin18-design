@@ -5,7 +5,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e um desenvolv
 
 - 🎓 **Foco atual:** JavaScript, Front-end, Lógica e Banco de Dados.
 - 🔭 **Projetos recentes:** - [My Energy Dashboard](https://github.com/edufernandespin18-design/my-energy-dashboard) (Sistema de gestão SPA com JS puro)
-   - [Meu Portfólio](https://github.com/edufernandespin18-design/Meu-Portfolio) (HTML5, CSS3, Dark Mode)
+  - [Meu Portfólio](https://github.com/edufernandespin18-design/Meu-Portf-lio) (HTML5, CSS3, Dark Mode)
 - 💬 **Frase:** "Construindo projetos e evoluindo todos os dias 🚀"
 - 📫 **Contato:** [edufernandespin18@gmail.com](mailto:edufernandespin18@gmail.com)
 
