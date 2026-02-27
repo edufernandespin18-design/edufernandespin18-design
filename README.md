@@ -27,8 +27,8 @@ As tecnologias que utilizo nos meus projetos (Front-end, Back-end e Dados):
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufernandespin18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufernandespin18&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edufernandespin18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edufernandespin18&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
